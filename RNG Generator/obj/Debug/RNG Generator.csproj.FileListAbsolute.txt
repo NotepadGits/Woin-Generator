@@ -1,0 +1,7 @@
+C:\Users\Slave-1\Desktop\Folder of Folders\Gitghub\Woin Weapon Generator\RNG Generator\RNG Generator\bin\Debug\RNG Generator.exe.config
+C:\Users\Slave-1\Desktop\Folder of Folders\Gitghub\Woin Weapon Generator\RNG Generator\RNG Generator\bin\Debug\RNG Generator.exe
+C:\Users\Slave-1\Desktop\Folder of Folders\Gitghub\Woin Weapon Generator\RNG Generator\RNG Generator\bin\Debug\RNG Generator.pdb
+C:\Users\Slave-1\Desktop\Folder of Folders\Gitghub\Woin Weapon Generator\RNG Generator\RNG Generator\obj\Debug\RNG Generator.csprojAssemblyReference.cache
+C:\Users\Slave-1\Desktop\Folder of Folders\Gitghub\Woin Weapon Generator\RNG Generator\RNG Generator\obj\Debug\RNG Generator.csproj.CoreCompileInputs.cache
+C:\Users\Slave-1\Desktop\Folder of Folders\Gitghub\Woin Weapon Generator\RNG Generator\RNG Generator\obj\Debug\RNG Generator.exe
+C:\Users\Slave-1\Desktop\Folder of Folders\Gitghub\Woin Weapon Generator\RNG Generator\RNG Generator\obj\Debug\RNG Generator.pdb
